@@ -1,0 +1,52 @@
+<HTML>
+<head>
+ <title>Información personal</title>
+
+</head>
+ul {
+    list-style-position:
+inside;
+    padding-left: 0;
+    margin-left: 0;
+    }
+</style>
+<center>
+<body>
+<a href="información personal.html"> Ir a información personal.</a>
+
+
+
+
+              <h1>Perfil personal</h1>
+<p> Soy estudiente de grado décimo con una profunda vocación por la medicina y un interés muy grande por el cuidado, bienestar, y salud de los demás. Disfruto especialmente materias como Biología, Ética e Inglés, me han enseñado a reflexionar, aprender y saber sobre el valor de la vida y comunicarme con empatía. Eh estado en proyectos de biotecnología, lo que ah fortalecido mi curiosidad en la biología, animales, y los seres humanos. Mi objetivo es ingresar a la carrera de medicina y convertirme en una profesional comprometida con el servivicio y la innovación en la salud</p>
+
+              <h1>Formación académica</h1>
+<li> colegio: I.E Licedo de Santa Librada </li>
+<li> Grado: 1002 J.T </li>
+<li> Fecha: 27-Oct-2025</li>
+<li> promedio Academico: Basico-alto</li>
+
+              <h1>Experiencia</h1>
+Formación complementaria en Biotecnología
+SENA 
+<li>Durante 8° y 9° grado | [Año de realización]</li>
+en conceptos básicos de genética, microbiología, y procesos biológicos.
+<li>Desarrollo de habilidades iniciales en laboratorio, bioseguridad, y análisis de muestras</li>
+<Li> Habilidades personales</li>
+Empatía, carisma, sensibilidad y compromiso son habilidades, trabajo en equipo, curiosidad científica, responsabilidad</li>
+
+<h1>Referencias</H1> Familiares y personales 
+<li>Leonardo Ordoñez 3017910785</li>
+<li>Yeni Patrcia Rodriguez 3183112219</li>
+
+<li>Danna Valentina Ramirez 3227085257</li>
+<li>Eduardo Polania Cortez  3213123455</li>
+
+
+
+
+
+
+
+</body>
+</html>
